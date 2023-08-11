@@ -1,2 +1,2 @@
 # PRP_proteomics
-Analysis of mass spectrometry proteomics dataset from equine platelet-rich plasma samples
+Analysis of label-free mass spectrometry proteomics dataset from equine platelet-rich plasma samples
